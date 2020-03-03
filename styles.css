@@ -7,7 +7,7 @@ font-family: Roboto;
 }
 .button-title {
 text-align: left;
-margin-left: 20px
+text-transform: uppercase;
 }
 .container {
 	max-width: 800px;
